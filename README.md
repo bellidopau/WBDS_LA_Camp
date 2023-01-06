@@ -1,3 +1,3 @@
 ### Repositorio de práctica del WBDS LA Camp
 
-**Autor/a/e: Paula Julieta Bellido
+**Autor/a/e**: Paula Julieta Bellido
